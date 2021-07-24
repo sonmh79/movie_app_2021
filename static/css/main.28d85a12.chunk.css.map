@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/routes/Home.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CACA,EACE,UACF","file":"main.28d85a12.chunk.css","sourcesContent":["html {\n  background-color: black;\n}\n* {\n  color: white;\n}\n"]}
